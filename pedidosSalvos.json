@@ -1,0 +1,59 @@
+[
+  {
+    "nome": "Gabriel Gomes",
+    "cpf": "09345626810",
+    "itens": [
+      {
+        "item": "Hambúrguer",
+        "quantidade": 1,
+        "valor": 15
+      },
+      {
+        "item": "Combo Duo",
+        "quantidade": 1,
+        "valor": 50
+      },
+      {
+        "item": "Milkshake",
+        "quantidade": 1,
+        "valor": 10
+      },
+      {
+        "item": "Salada",
+        "quantidade": 1,
+        "valor": 12
+      }
+    ],
+    "endereco": "Av Paulista, 1450",
+    "total": 87,
+    "taxaEntrega": 14.790000000000001,
+    "totalFinal": 101.79,
+    "dataHora": "02/10/2024, 13:47:21"
+  },
+  {
+    "nome": "Flávia Antunes",
+    "cpf": "053.***.***-091",
+    "itens": [
+      {
+        "item": "Combo Unitário",
+        "quantidade": 1,
+        "valor": 25
+      },
+      {
+        "item": "Batata Frita",
+        "quantidade": 1,
+        "valor": 8
+      },
+      {
+        "item": "Salada",
+        "quantidade": 1,
+        "valor": 12
+      }
+    ],
+    "endereco": "Passeio dos Estudantes, 258",
+    "total": 45,
+    "taxaEntrega": 7.65,
+    "totalFinal": 52.65,
+    "dataHora": "02/10/2024, 13:47:21"
+  }
+]
